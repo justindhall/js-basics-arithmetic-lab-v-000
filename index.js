@@ -13,3 +13,5 @@ const newID = oldID + 1000000000;
 
 const ageIsValid = Number.IsInteger(currentAge);
 
+const randomNumber = Math.random()*20 + 1;
+
